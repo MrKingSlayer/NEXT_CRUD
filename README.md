@@ -10,7 +10,6 @@ Install dependencies :
 npm install
 # or
 yarn install
-# or
 
 ```
 
